@@ -39,7 +39,7 @@ if (!isset($user)){
             Settings
         </button>
         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Action</a> //later there will be implemented username change
 			<form id="myForm" method="post" action="php/images.php" enctype="multipart/form-data">
             <a class="dropdown-item" onclick="document.getElementById('fileInput').click()">Change profile picture</a>
             <input id="fileInput" name="uploaded" type="file" style="display:none" onchange="handleFileSelect(event)"/></form>
