@@ -8,6 +8,8 @@ Welcome to the Simple Chat Website repository! This project hosts the code for a
 
 2. **Tenor GIF Search**: Express yourself with a wide range of animated GIFs from the Tenor library. Easily search and share GIFs to add a touch of fun and enhance your conversations.
 
+3.**Real-Time Communication**: Engage in lively discussions and connect with other users through chat rooms. Experience the joy of instant communication and build connections with like-minded individuals.
+
 4. **User-Friendly Interface**: Enjoy a seamless and intuitive user interface that provides a smooth navigation experience, making your chat sessions enjoyable and effortless.
 
 5. **Responsive Design**: The website is designed to be responsive and adaptable across various devices. Chat and connect with others on the go, whether you're using a desktop, laptop, or mobile device.
